@@ -612,7 +612,7 @@ body {
   width: 115%;
   aspect-ratio: 1 / 1; /* Mantiene el contenedor perfectamente cuadrado */
   overflow: hidden;
-  border-radius: 12px;
+  border-radius: 20px;
   position: relative;
 }
 
