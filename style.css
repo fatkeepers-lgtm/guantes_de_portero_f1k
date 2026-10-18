@@ -587,7 +587,7 @@ body {
     object-fit: cover;
     object-position: center;
     display: block;
-    border-radius: 16px;
+    border-radius: 20px;
 }
 
 /* Imagen del producto GREEN VENOM */
@@ -605,5 +605,5 @@ body {
     object-fit: cover;
     object-position: center;
     display: block;
-    border-radius: 16px;
+    border-radius: 20px;
 }
